@@ -776,6 +776,15 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#fac51c"
+            },
+            "P": {
+              "color": "#fac51c",
+              "font-size": "15px"
+            }
+          },
           "_anchor": "contacts1-1n",
           "_params": {
             "paddingTop": 3,
@@ -807,16 +816,7 @@
           },
           "text1": "",
           "text2": "Contacts<br>\n<br>srivibhavanaenterprises@gmail..com<br>\nPhone: +919962211127<br>",
-          "text3": "",
-          "_styles": {
-            "STRONG": {
-              "color": "#fac51c"
-            },
-            "P": {
-              "color": "#fac51c",
-              "font-size": "15px"
-            }
-          }
+          "text3": ""
         }
       ]
     },
