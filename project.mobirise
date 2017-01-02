@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 67,
+    "uniqCompNum": 103,
     "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -69,10 +69,10 @@
             "autoplay": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "timeout": 5,
+            "timeout": "2",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/screw-conveyor-2000x1600-40.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -102,7 +102,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/blower-2000x2044-84.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -273,7 +273,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SRIVIBHAVANA ENTERPRISES&nbsp;<br>MOB:9962211127<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#msg-box2-q\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#features3-s\" aria-expanded=\"false\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#contacts1-1n\" aria-expanded=\"false\">CONTACT<br>US&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br>E-BROUCHERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">\u001b\u001b</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#msg-box2-q\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#features3-s\" aria-expanded=\"false\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#contacts1-1n\" aria-expanded=\"false\">CONTACT<br>US&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><br>E-BROUCHERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#https://github.com/srivibhavana/mobirise/blob/gh-pages/Screw%20Conveyor.pdf\">SCREW CONVEYOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BUCKET ELEVATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BLOWER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#tophttps://github.com/srivibhavana/mobirise/blob/gh-pages/Cyclone.pdf\">CYCLONE SEPERATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DUCT COLLECTORS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WET-SCRUBBERS&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SILOS/BINS/HOPPERS&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">STORAGE TANKS&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">HOR AIR DRYERS&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">\u001b\u001b</a></li>"
         },
         {
           "_styles": {
@@ -317,7 +317,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": "ABOUT US",
-          "text": "<div><br></div><div>Founded in 2003, SVE Engineering Equipments. is the leader in the design and manufacture of conveying equipment,bulk material storage and air pollution control equipments. We are dedicated in providing the highest quality equipment and service to our customers.</div><div><br></div><div>SVE products are supplied to many diverse industries and to a large customer base. Our primary customers are end users, engineering firms, poultry feed firms, sugar plant, cement plants fertilizer industries, tyre industries, paint industries, ceramic industries and original equipment manufacturers (OEMs).</div><div><br></div><div>We are located in Ambattur Industrial Estate, Chennai</div><div><br></div><div>SVE is an ISO 9001-2008 certified manufacturer. We are committed to customer satisfaction and continuous improvement of our products and services.</div>"
+          "text": "<div><br></div><div>Founded &nbsp;in &nbsp;2003, &nbsp; SVE &nbsp; Engineering &nbsp; Equipments &nbsp; &nbsp; is the leader in the design and manufacture of conveying equipment,bulk material storage and air pollution control equipments. &nbsp;We are &nbsp;dedicated &nbsp;in &nbsp; providing &nbsp; &nbsp;the highest quality equipment &nbsp; &nbsp; and service to our customers.</div><div><br></div><div>SVE products are &nbsp;supplied &nbsp;to many diverse industries and to a large customer base. </div><div>Our &nbsp;primary &nbsp;customers &nbsp;are &nbsp;end users, &nbsp;engineering &nbsp;firms, &nbsp;poultry feed firms, sugar &nbsp; &nbsp; &nbsp; &nbsp;plant, &nbsp;cement &nbsp;plants &nbsp;fertilizer &nbsp;industries, &nbsp;tyre &nbsp;industries, &nbsp;paint &nbsp;industries, &nbsp;ceramic &nbsp;industries and original equipment manufacturers (OEMs).</div><div><br></div><div>We are located in Ambattur Industrial Estate, Chennai</div><div><br></div><div>SVE is an ISO 9001-2008 certified manufacturer. We are committed to customer satisfaction and continuous improvement of our products and services.</div>"
         },
         {
           "_tags": [
@@ -365,7 +365,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -381,8 +381,8 @@
           },
           "title1": "SCREW CONVEYORS",
           "subtitle1": "",
-          "caption1": "Screw conveyors are used in thousands of industrial applications every day for efficiently conveying a variety of bulk materials. A screw conveyor’s main function is to transfer bulk materials from one process to another. Screw conveyors are very cost-effective and require minimal maintenance to operate.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "Screw &nbsp; &nbsp; &nbsp;conveyors &nbsp; &nbsp; are used &nbsp; in &nbsp; &nbsp; thousands &nbsp; &nbsp; of industrial &nbsp; &nbsp; &nbsp; &nbsp; applications every &nbsp; &nbsp; &nbsp;day for efficiently conveying &nbsp; a &nbsp; variety &nbsp; &nbsp; of bulk &nbsp; &nbsp; &nbsp;materials. &nbsp;A screw conveyor’s &nbsp; main function is &nbsp; &nbsp; &nbsp;to &nbsp; &nbsp; &nbsp; &nbsp;transfer &nbsp; &nbsp; &nbsp;bulk materials &nbsp; &nbsp; &nbsp; &nbsp; from &nbsp; &nbsp; &nbsp;one process to another. Screw conveyors &nbsp;are &nbsp;very cost-effective &nbsp; &nbsp; &nbsp; and &nbsp; &nbsp; require minimal &nbsp; maintenance &nbsp; to operate.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BROUCHER</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/blower-600x613-32.jpg",
@@ -397,8 +397,8 @@
           },
           "title2": "BLOWERS",
           "subtitle2": "",
-          "caption2": "We design and manufacfure centrifugal blower with backward inclined blades and these blade as well as the wheels are of aero-dynamically balanced. The blades are self-cleaning type i.e the tip angle is designed so that it will prevent excessive dust deposits.We also can give straight radial blade impellerss where the dust particle size is larger. Our blowers are intend to use convey air gas containing dust and even coarser material. This can also be used for pneumatic conveying.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "We &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;design &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and manufacfure &nbsp; &nbsp; centrifugal blower &nbsp; &nbsp; with &nbsp; &nbsp;backward inclined &nbsp; &nbsp; &nbsp; &nbsp;and &nbsp; &nbsp; &nbsp;curved blades and these blade as well &nbsp;as &nbsp; the wheels are of aero &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- &nbsp; &nbsp; &nbsp;dynamically balanced. &nbsp; The blades are self-cleaning &nbsp; type &nbsp; i.e the tip angle &nbsp; is &nbsp; designed &nbsp;so that &nbsp; &nbsp; &nbsp; it &nbsp; &nbsp; &nbsp;will &nbsp; &nbsp; &nbsp;prevent excessive &nbsp; dust &nbsp; deposits. We also &nbsp; can give straight radial &nbsp; &nbsp;blade &nbsp; &nbsp; impellerss where &nbsp; the &nbsp; dust &nbsp; particle size is larger. &nbsp;Our blowers are &nbsp;intend &nbsp;to &nbsp;use convey air gas containing &nbsp;dust &nbsp; &amp; even coarser material.This can &nbsp; &nbsp; also &nbsp; be &nbsp; used &nbsp; &nbsp;for pneumatic conveying.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BROUCHER</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/dust-collector-600x613-40.jpg",
@@ -413,8 +413,8 @@
           },
           "title3": "DUST COLLECTORS",
           "subtitle3": "",
-          "caption3": "Our optimum designed Dust collectors capture the dust particle from the air-stream by forcing the airflow through the filter bags. The filter bags are selected very care fully for optimum air to cloth ration for efficient filtering.. Our dust collectors can be used in varieties of applications from ambient temperature to high temperature and also for corrosive and hazardous applications.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption3": "Our &nbsp; &nbsp; optimum &nbsp;designed Dust &nbsp; collectors &nbsp; &nbsp;capture the &nbsp; dust particle from the air-stream &nbsp; by &nbsp;forcing the airflow &nbsp; through &nbsp; the filter bags. &nbsp; The &nbsp; filter bags are selected &nbsp; very &nbsp; care &nbsp;fully for &nbsp; optimum &nbsp; air &nbsp;to cloth ration for efficient filtering.. Our &nbsp;dust &nbsp; collectors &nbsp; can be &nbsp; &nbsp;used &nbsp; in &nbsp; &nbsp;varieties of applications from ambient temperature &nbsp; &nbsp; &nbsp;to &nbsp; &nbsp; &nbsp; &nbsp;high temperature &nbsp; and also for corrosive &nbsp; and hazardous applications.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BROUCHER</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/scrubber-600x613-10.jpg",
@@ -429,8 +429,8 @@
           },
           "title4": "WET SCRUBBERS",
           "subtitle4": "",
-          "caption4": "Our Wet scrubbers are very effective air pollution control devices for removing particles and/or gases from industrial exhaust streams. Our wet scrubber operates by introducing the dirty gas stream with a scrubbing liquid – typically water. Particulate or gases are collected in the scrubbing liquid. Wet scrubbers are generally the most appropriate air pollution control device for collecting both particulate and gas in a single system.<span style=\"font-size: 1rem; line-height: 1.5;\">We offer a variety of wet scrubber systems specifically designed for your process applications&nbsp;</span><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption4": "Our &nbsp;Wet &nbsp; scrubbers &nbsp; &nbsp;are very effective air &nbsp;pollution control &nbsp; &nbsp; &nbsp; &nbsp;devices &nbsp; &nbsp; &nbsp; &nbsp;for removing particles and &nbsp;or gases &nbsp; &nbsp; &nbsp; from &nbsp; &nbsp; industrial exhaust &nbsp;streams. Our wet scrubber &nbsp; &nbsp; &nbsp;operates &nbsp; &nbsp;by introducing &nbsp; the &nbsp; dirty gas stream &nbsp; with &nbsp;a &nbsp;scrubbing liquid &nbsp;– &nbsp; &nbsp;typically &nbsp; water. Particulate &nbsp;or &nbsp; gases &nbsp; are collected &nbsp;in the scrubbing liquid. &nbsp;Wet &nbsp;scrubbers are generally &nbsp; &nbsp; &nbsp;the &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;most appropriate &nbsp; air &nbsp; pollution control &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;device &nbsp; &nbsp; &nbsp; &nbsp;for collecting both particulate and &nbsp; &nbsp; gas &nbsp; &nbsp; in &nbsp; &nbsp; a &nbsp; &nbsp;single system. <span style=\"font-size: 1rem; line-height: 1.5;\">We offer a variety of &nbsp; wet scrubber systems specifically &nbsp; designed &nbsp; for your process applications&nbsp;</span><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BROUCHER</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/cyclone-600x613-89.jpg",
@@ -444,9 +444,9 @@
             }
           },
           "title5": "CYCLONE SEPERATOR",
-          "subtitle5": "&nbsp;<span style=\"font-style: normal;\">Our cyclone provides solutions to the problem of collecting materials both for exhuasting dust and conveying bark and chips. The centrifugal action causes the air and material to move around the inside wall of the cyclone, from where the material drops by force of gravity to the bottom, leaving the clean air to escape through the top. Our design allows low resistance to flow,adequate capacity and reliabilty.<span style=\"line-height: 1.7857;\">Our light duty cyclone is very effective for non-abrasive,granular/fibrous dusts and the heavier will be used for chips or other material in pieces</span></span>",
+          "subtitle5": "&nbsp;<span style=\"font-style: normal;\">Our &nbsp; &nbsp;cyclone &nbsp; &nbsp; provides solutions &nbsp;to &nbsp;the &nbsp;problem of &nbsp; &nbsp; collecting &nbsp; &nbsp; materials both &nbsp; for &nbsp;exhuasting dust and &nbsp; conveying &nbsp; bark and chips. &nbsp; &nbsp; The &nbsp; &nbsp; &nbsp;centrifugal</span><br><div style=\"text-align: left;\"><span style=\"line-height: 1.7857; font-style: normal;\">action &nbsp;causes &nbsp;the &nbsp;air and material &nbsp;to &nbsp;move around the &nbsp; inside &nbsp; wall &nbsp; of &nbsp; &nbsp; &nbsp;the cyclone, &nbsp; from &nbsp;where the material drops by force of gravity &nbsp; to &nbsp; the &nbsp; &nbsp; bottom, leaving &nbsp;the &nbsp;clean &nbsp;air &nbsp; &nbsp; to escape &nbsp; through &nbsp;the &nbsp;top. Our &nbsp; design &nbsp; allows &nbsp; &nbsp;low resistance to</span><span style=\"line-height: 1.7857;\"><font color=\"#000000\">&nbsp;</font></span><span style=\"line-height: 1.7857; font-style: normal;\">flow, adequate &nbsp; capacity &nbsp; &nbsp; and reliabilty. &nbsp;&nbsp;<span style=\"line-height: 1.7857;\">Our &nbsp; light &nbsp; duty cyclone &nbsp; is &nbsp;very &nbsp;effective for non&nbsp;</span></span><span style=\"line-height: 1.7857; font-style: normal;\">abrasive,</span></div><div style=\"text-align: left;\"><span style=\"line-height: 1.7857; font-style: normal;\">granular &nbsp;/ &nbsp;fibrous &nbsp; dusts and &nbsp; the &nbsp; heavier &nbsp; will &nbsp;be used &nbsp;for &nbsp;chips &nbsp; or &nbsp; other material in pieces</span></div>",
           "caption5": "",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BROUCHER</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/storage-tanks-600x613-41.jpg",
@@ -461,8 +461,8 @@
           },
           "title6": "STORAGE TANKS",
           "subtitle6": "",
-          "caption6": "We designs and manufacture high-quality, custom M.S/S.S process tanks and storage tanks for all kind of oils. These tanks allow for the storage of various types of oils in a perfectly hygienic environment. Our oil tanks are characterized by conical heads, vertical shells and horizontal shells to allow cost-effective storage of large quantities of oils in a given area.<br>We supplied oil storage tanks to many clients. We can specifically design for storage under purged gas conditions to maintain the low acidity that is crucial to producing high-quality.<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "caption6": "We &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;design &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;and manufacture high-quality, custom &nbsp;M.S/S.S &nbsp;process tanks &nbsp;and &nbsp;storage &nbsp; tanks for &nbsp;all &nbsp;kind &nbsp;of &nbsp;oils. These tanks &nbsp; &nbsp; &nbsp;allow &nbsp; &nbsp; &nbsp;for &nbsp; &nbsp; the storage of &nbsp;various &nbsp; types of oils in a perfectly hygienic environment. Our oil tanks are characterized by &nbsp;conical heads, vertical shells and horizontal shells &nbsp; &nbsp; to &nbsp; &nbsp;allow &nbsp; &nbsp; cost-effective &nbsp;storage &nbsp;of large quantities of oils in a given area.<br>We &nbsp;supplied &nbsp; oil &nbsp;storage tanks &nbsp;to many clients. We can specifically design for storage &nbsp; &nbsp;under &nbsp; &nbsp; purged gas conditions to maintain the &nbsp; &nbsp;low &nbsp; &nbsp;acidity &nbsp; that &nbsp; is crucial to producing high-quality.<br>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BROUCHER</a>"
         },
         {
           "_styles": {
@@ -1064,7 +1064,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SRIVIBHAVANA ENTERPRISES&nbsp;<br>MOB:9962211127<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#msg-box2-q\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#features3-s\" aria-expanded=\"false\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#contacts1-1n\" aria-expanded=\"false\">CONTACT<br>US&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br>E-BROUCHERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">\u001b\u001b</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#msg-box2-q\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#features3-s\" aria-expanded=\"false\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#contacts1-1n\" aria-expanded=\"false\">CONTACT<br>US&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><br>E-BROUCHERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#https://github.com/srivibhavana/mobirise/blob/gh-pages/Screw%20Conveyor.pdf\">SCREW CONVEYOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BUCKET ELEVATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BLOWER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#tophttps://github.com/srivibhavana/mobirise/blob/gh-pages/Cyclone.pdf\">CYCLONE SEPERATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DUCT COLLECTORS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WET-SCRUBBERS&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SILOS/BINS/HOPPERS&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">STORAGE TANKS&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">HOR AIR DRYERS&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">\u001b\u001b</a></li>"
         },
         {
           "_styles": {
@@ -1170,7 +1170,7 @@
           "title1": "SCREW CONVEYORS",
           "subtitle1": "",
           "caption1": "Screw conveyors are used in thousands of industrial applications every day for efficiently conveying a variety of bulk materials. A screw conveyor’s main function is to transfer bulk materials from one process to another. Screw conveyors are very cost-effective and require minimal maintenance to operate.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/blower-600x613-32.jpg",
@@ -1771,7 +1771,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SRIVIBHAVANA ENTERPRISES&nbsp;<br>MOB:9962211127<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#msg-box2-q\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#features3-s\" aria-expanded=\"false\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#contacts1-1n\" aria-expanded=\"false\">CONTACT<br>US&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><br>E-BROUCHERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">\u001b\u001b</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#msg-box2-q\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#features3-s\" aria-expanded=\"false\">PRODUCTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"HOME#contacts1-1n\" aria-expanded=\"false\">CONTACT<br>US&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><br>E-BROUCHERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#https://github.com/srivibhavana/mobirise/blob/gh-pages/Screw%20Conveyor.pdf\">SCREW CONVEYOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BUCKET ELEVATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BLOWER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#tophttps://github.com/srivibhavana/mobirise/blob/gh-pages/Cyclone.pdf\">CYCLONE SEPERATOR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DUCT COLLECTORS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WET-SCRUBBERS&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SILOS/BINS/HOPPERS&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">STORAGE TANKS&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">HOR AIR DRYERS&nbsp;</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">\u001b\u001b</a></li>"
         },
         {
           "_styles": {
